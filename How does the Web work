@@ -1,1 +1,11 @@
+The Internet is a place where an individual can access information. However, the method of accessing the information is a bit more complicated than just clicking the left mouse 
+key.
 
+There are three components, on a high level, to accessing a webpage. There is the browser, the server, and the html files, pictures, sounds, and other files on the server. 
+The browser sends a request to access the files to the server.The server checks if it has the file. If it does, it sends the file to the browser. 
+  ex:
+      An example here would be clicking a link on Google. Google sends a request to the server hosting the HTML page. The server sends the web pages to Google. Google then displays
+      the HTMl page.
+One question that arises is how does Google know what to display.
+
+That is where HTML comes into play. HTML gives Google or any browser what to display: contetn and structure of a page.
