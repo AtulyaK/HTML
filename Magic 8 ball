@@ -3,7 +3,7 @@
   <title>Magic 8 Ball</title>
   
   <script type="text/javascript">
-    // we define answers
+    // Defining answers
     var answers = ["It is certain", 
                    "It is decidedly so", 
                    "Without a doubt", 
